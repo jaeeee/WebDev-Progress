@@ -5,4 +5,4 @@ I will be tracking my own progress in familiarizing myself with various web deve
 * `Chat Application` - Express.js, Node.js, and Socket.io
 * `Pokemon Application` - Axios and PokeAPI (REST API)
 * `Todo List Application` - Vuex & Vue.js
-* `VUE Post Filtering Application` - Vue.js
+* `Post Filtering Application` - Vue.js
