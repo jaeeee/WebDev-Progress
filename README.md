@@ -2,7 +2,7 @@
 I will be tracking my own progress in familiarizing myself with various web development tools, libraries, and languages.
 
 # Completed Projects & Tutorials
-* `Chat Application`
-* `Pokemon Application`
-* `Todo List Application`
-* `VUE Post Filtering Application`
+* `Chat Application` - Express.js, Node.js, and Socket.io
+* `Pokemon Application` - Axios and PokeAPI (REST API)
+* `Todo List Application` - Vuex & Vue.js
+* `VUE Post Filtering Application` - Vue.js
