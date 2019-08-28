@@ -6,3 +6,4 @@ I will be tracking my own progress in familiarizing myself with various web deve
 * `Pokemon Application` - Axios and PokeAPI (REST API)
 * `Todo List Application` - Vuex & Vue.js
 * `Post Filtering Application` - Vue.js
+* `Moon Calculator` - Moon.js
