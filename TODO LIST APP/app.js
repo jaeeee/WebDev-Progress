@@ -11,8 +11,8 @@ var state = {
       completed: true
     },
     {
-      id: 0,
-      task: "Read every class and tutorial on Sabe.io",
+      id: 2,
+      task: "Learn React & Angular.",
       completed: false
     }
   ]
