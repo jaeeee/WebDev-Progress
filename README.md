@@ -5,5 +5,6 @@ I will be tracking my own progress in familiarizing myself with various web deve
 * `Chat Application` - Express.js, Node.js, and Socket.io
 * `Pokemon Application` - Axios and PokeAPI (REST API)
 * `Todo List Application` - Vuex & Vue.js
+* `Another Todo List App` - React
 * `Post Filtering Application` - Vue.js
 * `Moon Calculator` - Moon.js
