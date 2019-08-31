@@ -9,3 +9,4 @@ I will be tracking my own progress in familiarizing myself with various web deve
 * `Post Filtering Application` - Vue.js
 * `Moon Calculator` - Moon.js
 * `Push Notification App` - Push.js
+* `Moment App` - Moment.js
