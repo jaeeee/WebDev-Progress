@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.projectreactor:reactor-bom:Bismuth-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-bom/Bismuth-RELEASE/reactor-bom-Bismuth-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-bom/Bismuth-RELEASE/reactor-bom-Bismuth-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-bom/Bismuth-RELEASE/reactor-bom-Bismuth-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
