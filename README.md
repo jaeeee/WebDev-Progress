@@ -11,3 +11,4 @@ I will be tracking my own progress in familiarizing myself with various web deve
 * `Push Notification App` - Push.js
 * `Moment App` - Moment.js
 * `Reactstrap Login Form` - Reactstrap
+* `Vaadin Chat` - Vaadin, Java, projectreactor
